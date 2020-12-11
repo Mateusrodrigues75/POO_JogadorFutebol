@@ -1,0 +1,13 @@
+C:\Users\dev\Documents\POO_JogadorFutebol\bin\Debug\netcoreapp3.1\POO_JogadorFutebol.exe
+C:\Users\dev\Documents\POO_JogadorFutebol\bin\Debug\netcoreapp3.1\POO_JogadorFutebol.deps.json
+C:\Users\dev\Documents\POO_JogadorFutebol\bin\Debug\netcoreapp3.1\POO_JogadorFutebol.runtimeconfig.json
+C:\Users\dev\Documents\POO_JogadorFutebol\bin\Debug\netcoreapp3.1\POO_JogadorFutebol.runtimeconfig.dev.json
+C:\Users\dev\Documents\POO_JogadorFutebol\bin\Debug\netcoreapp3.1\POO_JogadorFutebol.dll
+C:\Users\dev\Documents\POO_JogadorFutebol\bin\Debug\netcoreapp3.1\POO_JogadorFutebol.pdb
+C:\Users\dev\Documents\POO_JogadorFutebol\obj\Debug\netcoreapp3.1\POO_JogadorFutebol.csprojAssemblyReference.cache
+C:\Users\dev\Documents\POO_JogadorFutebol\obj\Debug\netcoreapp3.1\POO_JogadorFutebol.AssemblyInfoInputs.cache
+C:\Users\dev\Documents\POO_JogadorFutebol\obj\Debug\netcoreapp3.1\POO_JogadorFutebol.AssemblyInfo.cs
+C:\Users\dev\Documents\POO_JogadorFutebol\obj\Debug\netcoreapp3.1\POO_JogadorFutebol.csproj.CoreCompileInputs.cache
+C:\Users\dev\Documents\POO_JogadorFutebol\obj\Debug\netcoreapp3.1\POO_JogadorFutebol.dll
+C:\Users\dev\Documents\POO_JogadorFutebol\obj\Debug\netcoreapp3.1\POO_JogadorFutebol.pdb
+C:\Users\dev\Documents\POO_JogadorFutebol\obj\Debug\netcoreapp3.1\POO_JogadorFutebol.genruntimeconfig.cache
